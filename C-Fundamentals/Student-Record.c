@@ -1,9 +1,3 @@
-/*
- * Project: Student Record System
- * Author: Sıla Yaman
- * Date: February 2026
- */
-
 #include <stdio.h>
 
 struct Student {
